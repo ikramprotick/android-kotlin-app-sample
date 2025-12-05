@@ -13,15 +13,3 @@ This project demonstrates basic Android app structure, Kotlin programming, and G
 - Easy to extend and customize  
 
 ---
-
-## 📁 Project Structure
-
-/
-├── app/ # Main application module (source code, resources)
-├── .idea/ # Android Studio project settings
-├── gradle/ # Gradle wrapper configuration
-├── gradlew / gradlew.bat # Gradle wrapper scripts
-├── build.gradle.kts # Gradle build config (Kotlin DSL)
-├── settings.gradle.kts # Gradle settings
-├── gradle.properties # Project properties
-└── README.md # This documentation
